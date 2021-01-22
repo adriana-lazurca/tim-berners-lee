@@ -15,7 +15,7 @@ body {
 
 .section {
   background-color: white;
-  width: 50%;
+  width: 45%;
   margin: 20px auto;
 }
 
@@ -58,6 +58,10 @@ body {
 .movie h5 {
   text-align: center;
   font-weight: bold;
+}
+
+.movie p {
+  margin-top: 1rem;
 }
 
 ul {
