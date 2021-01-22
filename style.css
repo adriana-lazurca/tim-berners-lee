@@ -1,13 +1,22 @@
 body {
-    background-color: lightgray;
+  background-color: lightgray;
+  font-family: "Open Sans", sans-serif;
+}
 
+.header {
+    background-color: white;
+    width: 50%;
+    margin: auto;
 }
 
 #tim-image {
-    border-radius: 163px;
+  border-radius: 163px;
+}
 
+.text-center {
+  text-align: center;
 }
 
 .movie {
-    display: flex;
+  display: flex;
 }
