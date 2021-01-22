@@ -3,10 +3,22 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
-.header {
-    background-color: white;
-    width: 50%;
-    margin: auto;
+.section {
+  background-color: white;
+  width: 50%;
+  margin: 20px auto;
+}
+
+.social-network {
+  justify-content: center;
+}
+
+.social-network li {
+  padding: 8px;
+}
+
+.social-network p {
+  margin: 0;
 }
 
 #tim-image {
@@ -19,4 +31,10 @@ body {
 
 .movie {
   display: flex;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
 }
